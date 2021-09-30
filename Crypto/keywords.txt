@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map For Crypto
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Crypto	KEYWORD1
+new_crypto	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+encodeArray	KEYWORD2
+decodeArray	KEYWORD2
+encodeMove	KEYWORD2
+decodeMove	KEYWORD2
+encodeBit	KEYWORD2
+decodeBit	KEYWORD2
+setLengthArray	KEYWORD2
+setLengthMove	KEYWORD2
+getLengthArray	KEYWORD2
+getLengthMove	KEYWORD2
+encodeChar	KEYWORD2
+encodeSpecial	KEYWORD2
+decodeChar	KEYWORD2
+decodeSpecial	KEYWORD2
+encodeString	KEYWORD2
+decodeString	KEYWORD2
+countString	KEYWORD2
+countArray	KEYWORD2
+createArrayKey	KEYWORD2
+createMoveKey	KEYWORD2
+mask	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SPECIAL_CHAR	LITERAL1
+DATA_ERROR	LITERAL1
+TEXT_VALUE	LITERAL1
